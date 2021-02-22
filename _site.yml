@@ -1,9 +1,9 @@
-name: "our-website"
+name: "ntres6100"
 navbar:
   title: "Our Collaborative Website"
   left:
     - text: "Puppies"
       href: index.html
-    - text: "About"
+    - text: "about"
       href: about.html
 output_dir: "."
