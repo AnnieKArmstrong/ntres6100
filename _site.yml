@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Kittens"
       href: about.html
-    - text: "Add a new heading here"
+    - text: "New heading"
       href: misc.html
 output_dir: "."
 
