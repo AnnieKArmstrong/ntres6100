@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Puppies!
 
-![]https://www.google.com/url?sa=i&url=https%3A%2F%2Fpets.webmd.com%2Fss%2Fslideshow-taking-care-of-puppy&psig=AOvVaw0YGaF2_q2g7Jv3vVTcX4jj&ust=1614112273675000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCLCdzfeq_u4CFQAAAAAdAAAAABAM
+![](https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2011/05/shutterstock_66574117-420x256.jpg)
 
 ```{r cars}
 summary(cars)
