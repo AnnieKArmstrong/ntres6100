@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Puppies"
       href: index.html
-    - text: "about"
+    - text: "Kittens"
       href: about.html
+    - text: "Add a new heading here"
+      href: misc.html
 output_dir: "."
 
 output:
