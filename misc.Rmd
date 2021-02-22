@@ -1,1 +1,8 @@
-new topic
+---
+title: "misc"
+author: "Liz Bageant"
+date: "2/22/2021"
+output: html_document
+---
+
+misc stuff
